@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2024"
 license = "Apache-2.0"
 description = "An x402 payment sidecar for priced Nuthatch named queries"
-repository = "https://github.com/nightswatchhq/nuthatch-x402"
+repository = "https://github.com/nuthatch-org/nuthatch-x402"
 
 [dependencies]
 anyhow = "1"
